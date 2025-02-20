@@ -42,7 +42,7 @@ print(37184428523099404700000000000000000000000000000000000000000000000000000000
 
 array = [1920,1032,1365,2253]  encontre este patron"""
 
-#funcion que obtiene el resto de 371844285230994047 concatenado k veces
+#funcion que obtiene el resto de restos de n.(k-1).10^18 concatenado k veces
 def obtenerModulo(k):
     divisor = 2701
     array = [1920,1032,1365,2253]
